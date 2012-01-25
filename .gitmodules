@@ -1,0 +1,3 @@
+[submodule "autoperf/repo"]
+	path = autoperf/repo
+	url = https://github.com/igrigorik/autoperf
