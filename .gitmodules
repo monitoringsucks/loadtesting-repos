@@ -1,3 +1,9 @@
 [submodule "autoperf/repo"]
 	path = autoperf/repo
 	url = https://github.com/igrigorik/autoperf
+[submodule "funkload/repo"]
+	path = funkload/repo
+	url = https://github.com/nuxeo/FunkLoad
+[submodule "parbench/repo"]
+	path = parbench/repo
+	url = https://github.com/andrewvc/parbench
