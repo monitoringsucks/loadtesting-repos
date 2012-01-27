@@ -10,3 +10,6 @@
 [submodule "ycsb/repo"]
 	path = ycsb/repo
 	url = https://github.com/brianfrankcooper/YCSB
+[submodule "beeswithmachineguns/repo"]
+	path = beeswithmachineguns/repo
+	url = https://github.com/newsapps/beeswithmachineguns
