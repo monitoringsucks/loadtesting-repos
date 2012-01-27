@@ -7,3 +7,6 @@
 [submodule "parbench/repo"]
 	path = parbench/repo
 	url = https://github.com/andrewvc/parbench
+[submodule "ycsb/repo"]
+	path = ycsb/repo
+	url = https://github.com/brianfrankcooper/YCSB
