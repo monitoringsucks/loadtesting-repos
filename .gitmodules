@@ -13,3 +13,6 @@
 [submodule "beeswithmachineguns/repo"]
 	path = beeswithmachineguns/repo
 	url = https://github.com/newsapps/beeswithmachineguns
+[submodule "engulf/repo"]
+	path = engulf/repo
+	url = https://github.com/andrewvc/engulf
