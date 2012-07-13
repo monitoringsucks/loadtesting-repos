@@ -16,3 +16,6 @@
 [submodule "engulf/repo"]
 	path = engulf/repo
 	url = https://github.com/andrewvc/engulf
+[submodule "iago/repo"]
+	path = iago/repo
+	url = https://github.com/twitter/iago
