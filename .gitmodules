@@ -19,3 +19,6 @@
 [submodule "iago/repo"]
 	path = iago/repo
 	url = https://github.com/twitter/iago
+[submodule "gatling/repo"]
+	path = gatling/repo
+	url = https://github.com/excilys/gatling
